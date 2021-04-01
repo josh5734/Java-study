@@ -40,7 +40,7 @@
 •	화살표(->) 연산자  
 •	3항 연산자  
 •	연산자 우선 순위  
-•	(optional) Java 13. switch 연산자  
+•	(optional) Java 13. switch 연산자  X
  
 ### 4. 제어문
 •	선택문  
@@ -134,4 +134,4 @@
 •	메소드, 생성자 레퍼런스  
  
  
- > 스터디 참고: 백기선님 https://github.com/whiteship/live-study
+ > 스터디 참고: 백기선 자바 라이브 스터디
