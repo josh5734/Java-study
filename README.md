@@ -58,11 +58,12 @@
 ### 6. 상속  
 •	자바 상속의 특징  
 •	super 키워드  
-•	메소드 오버라이딩  
-•	다이나믹 메소드 디스패치 (Dynamic Method Dispatch)  
-•	추상 클래스  
-•	final 키워드  
-•	Object 클래스  
+•	Object 클래스 
+•	메소드 오버라이딩(Method overriding)
+•	다이나믹 메서드 디스패치 (Dynamic Method Dispatch)  
+•	추상 클래스(Abstract class)  
+•	final 키워드 / final 키워드와 static 키워드
+
 
 ### 7. 패키지  
 •	package 키워드  
