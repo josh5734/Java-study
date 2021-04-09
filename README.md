@@ -65,12 +65,11 @@
 •	final 키워드 / final 키워드와 static 키워드
 
 
-### 7. 패키지  
+### 7. 패키지(Package)와 클래스패스(Classpath)
 •	package 키워드  
 •	import 키워드  
-•	클래스패스  
-•	CLASSPATH 환경변수   
-•	-classpath 옵션  
+•	클래스패스(Classpath), -classpath 옵션     
+•	CLASSPATH 환경변수 이해   
 •	접근지시자  
 
 ### 8. 인터페이스  
