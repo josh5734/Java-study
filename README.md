@@ -88,7 +88,42 @@
 •	RuntimeException과 RE가 아닌 것의 차이는?  
 •	커스텀한 예외 만드는 방법  
 
-### 10. 멀티쓰레드 프로그래밍  
+
+### 10. Enum
+•	enum 정의하는 방법  
+•	enum이 제공하는 메소드 (values()와 valueOf())  
+•	java.lang.Enum  
+•	EnumSet   
+  
+
+### 11. 어노테이션  
+•	애노테이션 정의하는 방법  
+•	@retention   
+•	@target  
+•	@documented  
+•	애노테이션 프로세서   
+
+### 12. I/O  
+•	스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O  
+•	InputStream과 OutputStream  
+•	Byte와 Character 스트림  
+•	표준 스트림 (System.in, System.out, System.err)  
+•	파일 읽고 쓰기  
+
+### 13. 제네릭  
+•	제네릭 사용법  
+•	제네릭 주요 개념 (바운디드 타입, 와일드 카드)  
+•	제네릭 메소드 만들기   
+•	Erasure  
+ 
+### 14. 람다식  
+•	람다식 사용법   
+•	함수형 인터페이스   
+•	Variable Capture  
+•	메소드, 생성자 레퍼런스  
+
+
+### 15. 멀티쓰레드 프로그래밍  
 •	Thread 클래스와 Runnable 인터페이스  
 •	쓰레드의 상태  
 •	쓰레드의 우선순위  
@@ -96,38 +131,4 @@
 •	동기화  
 •	데드락  
 
-### 11. Enum
-•	enum 정의하는 방법  
-•	enum이 제공하는 메소드 (values()와 valueOf())  
-•	java.lang.Enum  
-•	EnumSet   
-  
 
-### 12. 어노테이션  
-•	애노테이션 정의하는 방법  
-•	@retention   
-•	@target  
-•	@documented  
-•	애노테이션 프로세서   
-
-### 13. I/O  
-•	스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O  
-•	InputStream과 OutputStream  
-•	Byte와 Character 스트림  
-•	표준 스트림 (System.in, System.out, System.err)  
-•	파일 읽고 쓰기  
-
-### 14. 제네릭  
-•	제네릭 사용법  
-•	제네릭 주요 개념 (바운디드 타입, 와일드 카드)  
-•	제네릭 메소드 만들기   
-•	Erasure  
- 
-### 15. 람다식  
-•	람다식 사용법   
-•	함수형 인터페이스   
-•	Variable Capture  
-•	메소드, 생성자 레퍼런스  
- 
- 
- > 스터디 참고: 백기선 자바 라이브 스터디
