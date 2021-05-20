@@ -94,10 +94,16 @@
 •	enum이 제공하는 메소드 (values()와 valueOf())  
 •	java.lang.Enum  
 •	EnumSet   
+• Enum 활용 예제
   
+### 11. 자바 Garbage Collector
+• 자바 Garbage Collector란?
+• Garbage collector 필요성
+• Garbage collector 동작 원리
 
-### 11. 어노테이션  
-•	애노테이션 정의하는 방법  
+
+### 11. 어노테이션(Annotation)  
+•	어노테이션 정의하는 방법  
 •	@retention   
 •	@target  
 •	@documented  
