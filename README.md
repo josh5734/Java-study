@@ -96,10 +96,10 @@
 •	EnumSet   
 • Enum 활용 예제
   
-### 11. 자바 Garbage Collector
-• 자바 Garbage Collector란?
-• Garbage collector 필요성
-• Garbage collector 동작 원리
+### 11. 자바 Garbage Collector   
+• 자바 Garbage Collector란?   
+• Garbage collector 필요성   
+• Garbage collector 동작 원리   
 
 
 ### 11. 어노테이션(Annotation)  
