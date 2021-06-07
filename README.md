@@ -102,39 +102,37 @@
 • Garbage collector 동작 원리   
 
 
-### 11. 어노테이션(Annotation)  
+### 12. 어노테이션(Annotation)  
 •	어노테이션 정의하는 방법  
 •	@retention   
 •	@target  
 •	@documented  
 •	애노테이션 프로세서   
 
-### 12. I/O  
+### 13. I/O  
 •	스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O  
 •	InputStream과 OutputStream  
 •	Byte와 Character 스트림  
 •	표준 스트림 (System.in, System.out, System.err)  
 •	파일 읽고 쓰기  
 
-### 13. 제네릭  
+### 14. 제네릭  
 •	제네릭 사용법  
 •	제네릭 주요 개념 (바운디드 타입, 와일드 카드)  
 •	제네릭 메소드 만들기   
 •	Erasure  
  
-### 14. 람다식  
+### 15. 람다식  
 •	람다식 사용법   
 •	함수형 인터페이스   
 •	Variable Capture  
 •	메소드, 생성자 레퍼런스  
 
 
-### 15. 멀티쓰레드 프로그래밍  
+### 16. 멀티쓰레드 프로그래밍  
 •	Thread 클래스와 Runnable 인터페이스  
 •	쓰레드의 상태  
 •	쓰레드의 우선순위  
 •	Main 쓰레드  
 •	동기화  
 •	데드락  
-
-
