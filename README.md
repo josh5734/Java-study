@@ -107,7 +107,7 @@
 •	@retention   
 •	@target  
 •	@documented  
-•	애노테이션 프로세서   
+•	애노테이션 예제   
 
 ### 13. I/O  
 •	스트림 (Stream) / 버퍼 (Buffer) / 채널 (Channel) 기반의 I/O  
